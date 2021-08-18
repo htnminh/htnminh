@@ -1,6 +1,6 @@
-[![repo=pdf-python-books-docs](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=pdf-python-books-docs&bg_color=121212&title_color=ff42ba&text_color=EFC663&icon_color=2CBF6D&hide_border=true&show_owner=true)](https://github.com/htnminh/pdf-python-books-docs)
+[![repo=pdf-python-books-docs](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=pdf-python-books-docs&bg_color=121212&title_color=ff42ba&text_color=EFC663&icon_color=2CBF6D&hide_border=true&show_owner=true&cache_seconds=1800)](https://github.com/htnminh/pdf-python-books-docs)
 
-[![repo=python-ex-intro-to-prog](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-ex-intro-to-prog&bg_color=121212&title_color=ff42ba&text_color=EFC663&icon_color=2CBF6D&hide_border=true&show_owner=true)](https://github.com/htnminh/python-ex-intro-to-prog)
+[![repo=python-ex-intro-to-prog](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-ex-intro-to-prog&bg_color=121212&title_color=ff42ba&text_color=EFC663&icon_color=2CBF6D&hide_border=true&show_owner=true&cache_seconds=1800)](https://github.com/htnminh/python-ex-intro-to-prog)
 
 ![htnminh's GitHub stats](https://github-readme-stats-htnminh.vercel.app/api?username=htnminh&count_private=true&show_icons=true&hide_border=true&cache_seconds=1800&bg_color=121212&title_color=ff42ba&text_color=EFC663&icon_color=2CBF6D)
 
