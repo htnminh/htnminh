@@ -5,9 +5,6 @@
 :books: Everything that I wrote until now:
 
 [![repo=python-contents](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-contents&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=true&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-contents)
-- :closed_book: A Jupyter notebook about fundamental things in Python
-- :green_book: A Python quick call reference notebook for easy searching.
-
 
 
 [![repo=python-introduction](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-introduction&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=true&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-introduction)
