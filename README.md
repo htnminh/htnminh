@@ -1,4 +1,4 @@
-:wave: **Hi, I'm Hoàng Trần Nhật Minh...**
+:wave: **Hi, I'm Hoàng Trần Nhật Minh, call me Minh...**
 
 :black_nib: I'm learning _Data Science and AI_ in _Hanoi University of Science and Technology_.
 
