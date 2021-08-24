@@ -1,4 +1,5 @@
 [![repo=pdf-python-books-docs](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=pdf-python-books-docs&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=true&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/pdf-python-books-docs)
+[![repo=introduction-to-python](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=introduction-to-python&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=true&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/introduction-to-python)
 [![repo=python-ex-intro-to-prog](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-ex-intro-to-prog&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=true&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-ex-intro-to-prog)
 
 
