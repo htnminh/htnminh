@@ -1,6 +1,7 @@
 :wave: **Hi, I'm Hoàng Trần Nhật Minh, call me Minh...** <br>
 :black_nib: I'm studying _Data Science and Artificial Intelligence_ in _Hanoi University of Science and Technology (HUST)_.
 
+<!--
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/htnminh) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -44,7 +45,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 `matplotlib`
-
+-->
 
 :books: Everything that I wrote until now... <br>
 [![repo=python-contents](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-contents&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-contents)
