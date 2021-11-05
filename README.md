@@ -6,10 +6,12 @@
 [![repo=python-contents](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-contents&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-contents)
 [![repo=AI-intro-project](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=AI-intro-project&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/AI-intro-project)
 
-:eye_speech_bubble: Let's take a look at... <br>
+<details>
+<summary>:eye_speech_bubble: Let's take a look at...</summary>
+  
 [![repo=python-introduction](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-introduction&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-introduction)
 [![repo=python-call-reference](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-call-reference&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-call-reference)
-
+</details>
 
 :100: Stats <br>
 ![htnminh's GitHub stats](https://github-readme-stats-htnminh.vercel.app/api?username=htnminh&count_private=true&show_icons=true&hide_border=true&cache_seconds=1800&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&border_radius=40&custom_title=My%20GitHub%20Stats)
