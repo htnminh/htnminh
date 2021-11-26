@@ -4,8 +4,15 @@
 
 :black_nib: In summary... <br>
 [![repo=python-contents](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=python-contents&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/python-contents)
-[![repo=AI-intro-project](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=AI-intro-project&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/AI-intro-project)
 
+
+I'm working on...
+
+[![repo=AI-intro-project](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=AI-intro-project&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/AI-intro-project)
+[![repo=optimization-project](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=optimization-project&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/optimization-project)
+
+
+  
 <details>
 <summary>:eye_speech_bubble: Let's take a look at...</summary>
   
