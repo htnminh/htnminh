@@ -7,7 +7,6 @@
 
 
 :mag: I'm working on... <br>
-
 [![repo=AI-intro-project](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=AI-intro-project&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/AI-intro-project)
 [![repo=optimization-project](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=optimization-project&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/optimization-project)
 
