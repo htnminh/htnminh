@@ -24,8 +24,10 @@
 ![Top Langs](https://github-readme-stats-htnminh.vercel.app/api/top-langs/?username=htnminh&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&custom_title=My%20Most%20Used%20Languages&card_width=280&hide_border=true&cache_seconds=1800&layout=compact&border_radius=40)
 
 <details>
-  <summary>Contact me!</summary>
+  <summary>Contact me?</summary>
  
+  nhatminh2106@gmail.com
+  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/htnminhpayacc)
 
 </details>
