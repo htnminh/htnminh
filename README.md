@@ -26,11 +26,9 @@
 <details>
   <summary>Contact me?</summary>
  
-  nhatminh2106@gmail.com
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/htnminhpayacc)
-
-</details>
+  - nhatminh2106@gmail.com
+  - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/htnminhpayacc)
+  - [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@_marpik)
 
 
 <!--
