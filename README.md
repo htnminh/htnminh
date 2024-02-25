@@ -7,8 +7,7 @@
 
 
 :mag: I'm working on... <br>
-[![repo=AlphaZero-Ultimate-TicTacToe](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=AlphaZero-Ultimate-TicTacToe&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/AlphaZero-Ultimate-TicTacToe)
-[![repo=AI-intro-project](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=AI-intro-project&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/AI-intro-project)
+[![repo=CVRP-RL](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=CVRP-RL&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/CVRP-RL)
 
 
   
