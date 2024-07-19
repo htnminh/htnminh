@@ -7,6 +7,7 @@
 
 
 :mag: I'm working on... <br>
+[![repo=hex-rl](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=hex-rl&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/hex-rl)
 [![repo=CVRP-RL](https://github-readme-stats-htnminh.vercel.app/api/pin/?username=htnminh&repo=CVRP-RL&bg_color=292929&title_color=00fff7&text_color=f0f0f0&icon_color=fbff00&hide_border=true&show_owner=false&cache_seconds=1800&border_radius=40)](https://github.com/htnminh/CVRP-RL)
 
 
