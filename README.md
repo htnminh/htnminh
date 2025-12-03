@@ -1,4 +1,4 @@
-:wave: **Hi, I'm Hoàng Trần Nhật Minh, call me Minh...** <br>
+:wave: **Hi, I'm Hoang Tran Nhat Minh, call me Minh...** <br>
 :books: I graduated _Data Science and Artificial Intelligence_ at _Hanoi University of Science and Technology (HUST)_.
 
 
